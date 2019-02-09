@@ -1,2 +1,2 @@
-# gitbook
-Personal Gitbook for articles, …
+# Initial page
+
